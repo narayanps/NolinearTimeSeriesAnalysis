@@ -8,4 +8,4 @@ NonlinearTimeSeriesAnalysis is distributed in the hope that it will be useful, b
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
-Narayan P Subramaniyam - npsubramaniyam@gmail.com
+Narayan P Subramaniyam - npsubramaniyam@gmail.com (01.11.2015)
