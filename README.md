@@ -1,4 +1,7 @@
 # NolinearTimeSeriesAnalysis
+USAGE
+The codes in the toolbox can be used to perform nonlinear time series analysis on single(or multi) channel data. This is done by mapping the single channel data to phase space representation using Taken's embedding theorem (compute_psv.m). The parameters - optimal delay and dimension are estimated using first minimum of MI (compute_tau.m) and FNN method (compute_dim) respectively. The recurrence network can be constructed from the phase space vector using ComputeRecurrenceNetwork_ANN.m or ComputeRecurrenceNetwork_fixedRR.m. The topology of the RN can be further analysed using graph theoreticl quantifiers (you need BCT toolbox for this). One can also compute the complexity-entrropy plane using get_mpr_complexity.m for which the ordinal patterns are computed using get_ordinal_pattern_dist.m (see the function descp for more details). Also, the tool box contains python codes to generate variety of uni(or multi) variate surrogate data.
+
 
 LICENSE INFORMATION:
 
