@@ -1,4 +1,6 @@
 #AUTHOR : NARAYAN P SUBRAMANIYAM
+#based on *Surrogate time series* by Schreiber and Schmitz (https://www.sciencedirect.com/science/article/abs/pii/S0167278900000439)
+#TFT version is based on Nakamura et al.
 import numpy
 
 
